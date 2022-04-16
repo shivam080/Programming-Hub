@@ -18,7 +18,7 @@ public class Sorting
      int[] arr = new int[num];
      for(int i=0;i<num;i++)
      {
-        arr[i]+=sc.nextInt();
+        arr[i]=sc.nextInt();
      }
 
 	 Arrays.sort(arr);
